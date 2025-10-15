@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adhwaith43&show_icons=true&theme=radical" alt="Adhwaith's GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhwaith43&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   
