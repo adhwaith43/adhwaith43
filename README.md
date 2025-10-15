@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhwaith A M&show_icons=true&theme=radical" alt="Adhwaith's GitHub Stats" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 # 👋 Hi, I'm Adhwaith A M  
 🎓 B.Tech Computer Science | College of Engineering Chengannur (2025)  
 💻 Aspiring Software Engineer | Python | MERN Stack | AI/ML Enthusiast  
