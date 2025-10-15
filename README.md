@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Adhwaith A M  
+#  <a text-align="center">👋 Hi, I'm Adhwaith A M  </a>
 🎓 B.Tech Computer Science | College of Engineering Chengannur (2025)  
 💻 Aspiring Software Engineer | Python | MERN Stack | AI/ML Enthusiast  
 
