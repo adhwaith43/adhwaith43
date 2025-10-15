@@ -67,5 +67,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adhwaith43&show_icons=true&theme=radical" alt="Adhwaith's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhwaith43&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhwaith43&theme=radical" alt="GitHub Streak" />
+  
 </p>
