@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adhwaith A M 👋</h1>
 
 <p align="center">
-  <em>B.Tech Computer Science graduate and aspiring Software Engineer from Kerala, India, with a passion for building scalable applications using Python, the MERN Stack, and AI.</em>
+  <em> A B.Tech Computer Science graduate and aspiring Software Engineer from Kerala, India, with a passion for building scalable applications using Python, the MERN Stack, and AI.</em>
 </p>
 
 <p align="center">
